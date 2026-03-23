@@ -5,12 +5,19 @@ Good materials
 - Zip ties
 - Double sided rubber tape
 - Steel cable
-- Cyanoacrylate
+- Cyanoacrylate glue
 - Heat shrink
 - Wire wrapping wire
 
 - 
 - Aluminum
-- Abs
-- Wood
-- 
+- Abs  
+- Wood  
+
+# Connections
+- Pin joints  
+- Gravity clamp  
+- Friction hitch (farrimond)  
+
+# Devices
+- raspberry pi 1.2 b+ sdcard holder - super smooth
